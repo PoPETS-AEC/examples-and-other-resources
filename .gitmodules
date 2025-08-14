@@ -1,3 +1,6 @@
 [submodule "example-docker-python-pip"]
 	path = example-docker-python-pip
 	url = ../example-docker-python-pip
+[submodule "example-docker-jupyter-notebook"]
+	path = example-docker-jupyter-notebook
+	url = ../example-docker-jupyter-notebook
