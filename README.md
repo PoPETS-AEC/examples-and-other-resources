@@ -34,8 +34,8 @@ according to the current repository (see our own [`.gitmodules`](.gitmodules)).
 ### GNU Parallel
 
 Executing loops in shell to run experiments or trying to execute several jobs in
-parallel? Check out the excellent [GNU
-Parallel](https://www.gnu.org/software/parallel/) shell tool.
+parallel? Check out the [GNU Parallel](https://www.gnu.org/software/parallel/)
+shell tool.
 
 
 ## ToDos
