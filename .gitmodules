@@ -1,0 +1,3 @@
+[submodule "example-docker-python-pip"]
+	path = example-docker-python-pip
+	url = ../example-docker-python-pip
