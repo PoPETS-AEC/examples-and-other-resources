@@ -23,20 +23,16 @@ requests.
 - [Python (pip)](./example-docker-python-pip/)
 
 ## Other Resources
-
+- [Building the Docker image with a GitHub Action workflow](resources/github-workflow-docker-image.md)
 - [Git Submodules](resources/git-submodules.md)
 - [GNU Parallel](resources/gnu-parallel.md)
+- [Large files solutions](resources/large-files-solutions.md)
+- [Licenses](resources/licenses.md)
+- [Renovate bot](resources/renovate-bot.md)
 - [VS Code and Docker Integration](resources/vs-code-docker-integration.md)
 
 
 ## ToDos
-
-Resources:
-- [ ] Zenodo dataset download
-- [ ] Renovatebot
-- [ ] Git LFS and other solutions for large files
-- [ ] Building Docker Images with GitHub Actions
-- [ ] Picking a license
 
 Docker:
 - [ ] C
@@ -48,8 +44,8 @@ Docker:
 - [ ] Rust
 - [ ] Docker Compose Example
 
-VM:
-- [ ] Shadow (Tor)
+Other:
+- [ ] Shadow (Tor) - VM?
+- [ ] NixOS examples
+- [ ] Automate Zenodo dataset download with script in an example repo
 
-NixOS:
-- [ ] Add some examples
