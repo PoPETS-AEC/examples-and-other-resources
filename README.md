@@ -24,8 +24,8 @@ requests.
   want to pick another license for their artifact.
 
 ## Docker Examples
-- [Python (pip)](./example-docker-python-pip/)
-- [Jupyter Notebook (based on Python pip example)](./example-docker-jupyter-notebook/)
+- [Python (pip)](https://github.com/PoPETS-AEC/example-docker-python-pip/)
+- [Jupyter Notebook (based on Python pip example)](https://github.com/PoPETS-AEC/example-docker-jupyter-notebook/)
 
 ## Other Resources
 - [Building the Docker image with a GitHub Action workflow](resources/github-workflow-docker-image.md)
