@@ -27,3 +27,6 @@ demonstrate this integration. Here is what you need to make it work:
   CLI](https://code.visualstudio.com/docs/devcontainers/devcontainer-cli) that
   lets you (among other things) open VS Code directly with the corresponding
   container launched.
+- If you have trouble with permissions on files created inside/outside the
+  Docker container when accessed from outside/inside it, see the note about
+  UID and GID in the [`Dockerfile`](./Dockerfile).
