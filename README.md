@@ -26,6 +26,7 @@ requests.
 ## Docker Examples
 - [Python (pip)](https://github.com/PoPETS-AEC/example-docker-python-pip/)
 - [Jupyter Notebook (based on Python pip example)](https://github.com/PoPETS-AEC/example-docker-jupyter-notebook/)
+- [Golang](https://github.com/PoPETS-AEC/example-docker-golang/)
 
 ## Other Resources
 - [Building the Docker image with a GitHub Action workflow](resources/github-workflow-docker-image.md)
@@ -41,7 +42,7 @@ requests.
 
 Docker:
 - [ ] C
-- [ ] Golang
+- [x] Golang
 - [x] Jupyter Notebook
 - [ ] Python (conda)
 - [x] Python (pip)

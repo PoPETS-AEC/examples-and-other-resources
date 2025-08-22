@@ -4,3 +4,6 @@
 [submodule "example-docker-jupyter-notebook"]
 	path = example-docker-jupyter-notebook
 	url = ../example-docker-jupyter-notebook
+[submodule "example-docker-golang"]
+	path = example-docker-golang
+	url = ../example-docker-golang
