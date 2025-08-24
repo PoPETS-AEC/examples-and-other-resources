@@ -24,9 +24,11 @@ requests.
   want to pick another license for their artifact.
 
 ## Docker Examples
-- [Python (pip)](https://github.com/PoPETS-AEC/example-docker-python-pip/)
-- [Jupyter Notebook (based on Python pip example)](https://github.com/PoPETS-AEC/example-docker-jupyter-notebook/)
+- [C](https://github.com/PoPETS-AEC/example-docker-c/)
 - [Golang](https://github.com/PoPETS-AEC/example-docker-golang/)
+- [Jupyter Notebook (based on Python pip example)](https://github.com/PoPETS-AEC/example-docker-jupyter-notebook/)
+- [Python (pip)](https://github.com/PoPETS-AEC/example-docker-python-pip/)
+
 
 ## Other Resources
 - [Building the Docker image with a GitHub Action workflow](resources/github-workflow-docker-image.md)
@@ -41,7 +43,7 @@ requests.
 ## ToDos
 
 Docker:
-- [ ] C
+- [x] C
 - [x] Golang
 - [x] Jupyter Notebook
 - [ ] Python (conda)

@@ -7,3 +7,6 @@
 [submodule "example-docker-golang"]
 	path = example-docker-golang
 	url = ../example-docker-golang
+[submodule "example-docker-c"]
+	path = example-docker-c
+	url = ../example-docker-c
