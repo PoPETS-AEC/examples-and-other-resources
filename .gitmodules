@@ -10,3 +10,6 @@
 [submodule "example-docker-c"]
 	path = example-docker-c
 	url = ../example-docker-c
+[submodule "example-docker-python-uv"]
+	path = example-docker-python-uv
+	url = ../example-docker-python-uv
