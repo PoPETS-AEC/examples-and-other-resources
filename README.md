@@ -27,6 +27,7 @@ requests.
 - [C](https://github.com/PoPETS-AEC/example-docker-c/)
 - [Golang](https://github.com/PoPETS-AEC/example-docker-golang/)
 - [Jupyter Notebook (based on Python pip example)](https://github.com/PoPETS-AEC/example-docker-jupyter-notebook/)
+- [Python (conda)](https://github.com/PoPETS-AEC/example-docker-python-conda/)
 - [Python (pip)](https://github.com/PoPETS-AEC/example-docker-python-pip/)
 - [Python (uv)](https://github.com/PoPETS-AEC/example-docker-python-uv/)
 
@@ -48,7 +49,7 @@ Docker:
 - [x] C
 - [x] Golang
 - [x] Jupyter Notebook
-- [ ] Python (conda)
+- [x] Python (conda)
 - [x] Python (pip)
 - [x] Python (uv)
 - [ ] Python ML workflow with cuda and GPU acceleration

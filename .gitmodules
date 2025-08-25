@@ -13,3 +13,6 @@
 [submodule "example-docker-python-uv"]
 	path = example-docker-python-uv
 	url = ../example-docker-python-uv
+[submodule "example-docker-python-conda"]
+	path = example-docker-python-conda
+	url = ../example-docker-python-conda
