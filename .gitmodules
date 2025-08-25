@@ -16,3 +16,6 @@
 [submodule "example-docker-python-conda"]
 	path = example-docker-python-conda
 	url = ../example-docker-python-conda
+[submodule "example-docker-python-gpu"]
+	path = example-docker-python-gpu
+	url = ../example-docker-python-gpu

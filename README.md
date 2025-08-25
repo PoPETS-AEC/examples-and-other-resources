@@ -27,6 +27,7 @@ requests.
 - [C](https://github.com/PoPETS-AEC/example-docker-c/)
 - [Golang](https://github.com/PoPETS-AEC/example-docker-golang/)
 - [Jupyter Notebook (based on Python pip example)](https://github.com/PoPETS-AEC/example-docker-jupyter-notebook/)
+- [NVIDIA GPU acceleration for Python (based on Python pip example)](https://github.com/PoPETS-AEC/example-docker-python-gpu/)
 - [Python (conda)](https://github.com/PoPETS-AEC/example-docker-python-conda/)
 - [Python (pip)](https://github.com/PoPETS-AEC/example-docker-python-pip/)
 - [Python (uv)](https://github.com/PoPETS-AEC/example-docker-python-uv/)
@@ -52,12 +53,12 @@ Docker:
 - [x] Python (conda)
 - [x] Python (pip)
 - [x] Python (uv)
-- [ ] Python ML workflow with cuda and GPU acceleration
-- [ ] Rust
+- [x] Python ML workflow with cuda and GPU acceleration
+- [ ] Rust?
 - [ ] Docker Compose Example
 
 Other:
 - [ ] Shadow (Tor) - VM?
-- [ ] NixOS examples
-- [ ] Automate Zenodo dataset download with script in an example repo
+- [ ] NixOS examples?
+- [ ] Automate Zenodo dataset download with script in an example repo?
 
